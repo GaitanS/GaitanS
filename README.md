@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GaitanS
 - 👀 I’m interested in developing my programming skills at the moment I'm just starting my journey.
 - 🌱 I’m currently learning python,sql database,html,css,javascript and django.
-- 💞️ I’m looking to collaborate as a software develeoper with python backend.
+- 💞️ I’m looking to collaborate as a software develeoper with python, sql, html, css and django.
 - 📫 How to reach me : gaitansilviu93@yahoo.com
 
 <!---
